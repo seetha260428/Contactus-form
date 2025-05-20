@@ -18,7 +18,6 @@ You can preview or use the form by opening the `index.html` file in your browser
 
 ## 📁 File Structure
 
-```
 
 📦contact-us-form
 ┣ 📄 index.html
