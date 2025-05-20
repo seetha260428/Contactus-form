@@ -23,14 +23,14 @@ You can preview or use the form by opening the `index.html` file in your browser
 📦contact-us-form
 ┣ 📄 index.html
 
-````
+
 
 ## 📦 How to Use
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/contact-us-form.git
-````
+
 
 2. Open `index.html` in your browser.
 
