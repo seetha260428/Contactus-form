@@ -6,7 +6,7 @@ A responsive and modern **Contact Us** form built using HTML and CSS. This form 
 
 ## 🔗 Live Demo
 
-You can preview or use the form by opening the `index.html` file in your browser.
+**link :** https://seetha260428.github.io/Contactus-form/
 
 ## 📋 Features
 
